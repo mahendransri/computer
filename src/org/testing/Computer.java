@@ -13,6 +13,8 @@ public class Computer {
 	
 	public static void main(String[] args) {
 		Computer c1 = new Computer();
+		c1.computerModel();
+		c1.namedev();
 
 
 
