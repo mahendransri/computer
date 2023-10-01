@@ -1,7 +1,8 @@
 package org.testing;
 
 public class Computer {
-public void computerModel() {
-System.out.println("system 1");
-}
+      int a =10, b = 20;
+	public void computerModel() {
+		System.out.println("system 1");
+	}
 }
